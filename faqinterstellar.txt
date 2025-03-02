@@ -1,0 +1,68 @@
+Frequently Asked Questions (FAQ) Last Updated: 02/03/2025
+
+Welcome to the Interstellar Executor FAQ. Below, you'll find answers to common questions about our software and services. If you need further assistance, contact us at https://discord.gg/interstellarexec.
+
+1. What is Interstellar Executor?
+
+Interstellar Executor is an advanced tool designed for executing scripts within Roblox. It provides a seamless experience with high performance and security measures in place.
+
+2. Is Interstellar Executor free to use?
+
+Yes, Interstellar Executor offers a free version with essential features. However, there may be premium versions with additional functionalities.
+
+3. Is using Interstellar Executor safe?
+
+We take security seriously and implement protective measures. However, using third-party executors always carries risks, and users should proceed with caution.
+
+4. Can I get banned for using Interstellar Executor?
+
+Using third-party executors violates Roblox's Terms of Service. While we include bypasses to reduce detection risks, there is always a possibility of being banned.
+
+5. How do I download and install Interstellar Executor?
+
+Visit our official website: https://interstellarexec.co.uk.
+
+Download the latest version from the official download page.
+
+Extract the files and run the installer.
+
+Follow the on-screen instructions to complete the setup.
+
+6. Why does my antivirus detect Interstellar Executor as a virus?
+
+Due to the nature of exploit software, some antivirus programs may flag it as a potential threat. You may need to whitelist the program or disable your antivirus temporarily while installing it.
+
+7. How do I update Interstellar Executor?
+
+We regularly release updates. To update:
+
+Visit our official website and download the latest version.
+
+Replace the old files with the updated ones.
+
+8. My executor is not working. What should I do?
+
+Try the following troubleshooting steps:
+
+Ensure you have the latest version installed.
+
+Disable your antivirus and firewall temporarily.
+
+Run the software as an administrator.
+
+Check our Discord or website for server status updates.
+
+9. Can I use custom scripts with Interstellar Executor?
+
+Yes, you can execute custom scripts. Simply paste your script into the executor and click "Execute."
+
+10. How do I contact support?
+
+If you need assistance, contact us via:
+
+Discord Server: https://discord.gg/interstellarexec
+
+Username: interstellarexec
+
+For the latest updates and announcements, follow us on our official platforms. Thank you for using Interstellar Executor!
+
